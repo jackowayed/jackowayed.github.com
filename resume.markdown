@@ -30,6 +30,12 @@ I could keep working around 5 hours a week after the summer too.
 
 Preferably, I would do something in Ruby, but I wouldn't mind learning to something something functional or Python. 
 
+### Interview Possibilites
+
+I'll probably be in Atlanta for a few days sometime between April 10 and 19, when I could do interviews. 
+
+If that doesn't work, you could invterview me in/near Delaware, or we could do it via phone, email, IM, skype, magic CNN holigram, or carrier pigeon. 
+
 Skill Summary  {#skills}
 -------------
 
