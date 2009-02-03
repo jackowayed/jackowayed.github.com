@@ -18,7 +18,15 @@ Basically, I want to hack this summer. It could be full-time or a somewhat-large
 
 I'm looking for a fairly small company, possibly a startup. It doesn't have to be tiny, but I'm not looking for some giant corporation where I'll spend more time planning what I will code than actually implementing. 
 
-Though I am quite open to startups, I do need to make a little money from it. I need at least $1k, preferably $2k or $3k, but as long as I make that much, the rest could be equity. 
+Though I am quite open to startups, I do need to make a little money from it. I need to make at least $2k for the summer so that I'll be good on car insurance and gas until next summer. 
+
+I'm available from the very beginning of June (There's some chance I'll have a final other than gym the first week of June, but it's looking like I won't.) until Labor Day. 
+
+I need to be able to take the week of July 19th off, and it would be nice if I could take random days off every once in awhile. 
+
+I'd also love it if my hours weren't set, but I could do 9-5 (Eastern time) if necessary. 
+
+I could keep working around 5 hours a week after the summer too. 
 
 Preferably, I would do something in Ruby, but I wouldn't mind learning to something something functional or Python. 
 
