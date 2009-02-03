@@ -9,6 +9,7 @@ Hire Me for the Summer         {#intro}
 
 I'm young, and I have no work experience and not a whole lot of coding experience, but I know how to program, and I'm eager to learn to fill in the gaps.
 
+* I will embezzle as much as possible!
 {:toc}
 
 What I Want to Do and Why       {#whatwhy}
