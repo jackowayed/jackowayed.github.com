@@ -1,6 +1,7 @@
 ---
 title: Resume
 ---
+
 Hire Me for the Summer         {#intro}
 ======================
 
