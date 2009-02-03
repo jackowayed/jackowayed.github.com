@@ -1,3 +1,5 @@
+---
+---
 Hire Me for the Summer         {#intro}
 ======================
 
@@ -61,13 +63,11 @@ Accomplishments & Experience {#experience}
   * Newspaper website in Rails 
     * Didn't end up getting used (A preexisting service gets the articles entered into contests, something the Editor in Chief told me when I was 90% finished. 
     * The code is [here](https://github.com/jackowayed/bluestreak/tree)
-  * [Tweet Link Monster](http://tweetlinkmonster.com/)--48 users, and growing. 
+  * [Tweet Link Monster](http://tweetlinkmonster.com/) in Merb--48 users, and growing. 
     * Would have more, but Twitter makes it impossible not to take their passwords (unless I want to make an API call for every user that any user follows). People don't like giving away their passes to small sites. 
   
 
 ############### talk about the state reps app when code is on github ################
-
-This past summer, I got into it more. I learned Rails, and wrote a newspaper website in it. It's not deployed (Somehow, though I talked to the editor in chief about design decisions weekly, she decided not to tell me that we would use an already-existing website instead of what I wrote until I was 90% done.), but the code is [on github](https://github.com/jackowayed/bluestreak/tree). 
 
 I then had to lookup 50 words online and copy the definitions as summer homework. This sounded like the most tedious thing ever, so I wrote [a script](https://github.com/jackowayed/lookup/tree), which I open-sourced, to do it. I didn't think it would take that much more time than actually looking it up, but it turns out parsing html sucks, especially when all dictionary websites display things in multiple structures for different words. 
 
