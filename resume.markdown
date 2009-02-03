@@ -1,4 +1,4 @@
-Hire Me for the Summer {#intro}
+Hire Me for the Summer         {#intro}
 ======================
 
 (Written in markdown extra in emacs, of course)
@@ -7,7 +7,7 @@ I'm young, and I have no work experience and not a whole lot of coding experienc
 
 {:toc}
 
-What I Want to Do and Why  {#whatwhy}
+What I Want to Do and Why       {#whatwhy}
 -------------------------
 
 Basically, I want to hack this summer. It could be full-time or a somewhat-large part-time. I need to make some money, and there's little that sounds worse to me than wasting my time in some mind-numbing job when I could be learning and enjoying my work coding. 
@@ -58,7 +58,9 @@ Accomplishments & Experience {#experience}
   * Wrote Conway's Game of Life w/ GUI in about an hour when I was bored in class. 
 * Started using Ruby in summer '06, though didn't do much advanced until summer '08
 * Ruby
-  * Newspaper website in Rails (Didn't end up getting used (A preexisting service gets the articles entered into contests, something the Editor in Chief told me when I was 90% finished.) The code is [here](https://github.com/jackowayed/bluestreak/tree))
+  * Newspaper website in Rails 
+    * Didn't end up getting used (A preexisting service gets the articles entered into contests, something the Editor in Chief told me when I was 90% finished. 
+    * The code is [here](https://github.com/jackowayed/bluestreak/tree)
   * [Tweet Link Monster](http://tweetlinkmonster.com/)--48 users, and growing. 
 
 ############### talk about the state reps app when code is on github ################
