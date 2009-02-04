@@ -79,12 +79,13 @@ Accomplishments & Experience {#experience}
   * Wrote Conway's Game of Life w/ GUI in about an hour when I was bored in class. 
 * Started using Ruby in summer '06, though didn't do much advanced until summer '08
 * Ruby
-    * Newspaper website in Rails 
-        * Didn't end up getting used (A preexisting service gets the articles entered into contests, something the Editor in Chief told me when I was 90% finished. 
-        * The code is [here](https://github.com/jackowayed/bluestreak/tree)
-    * [Tweet Link Monster](http://tweetlinkmonster.com/) in Merb--49 users, and growing. 
-        * Would have more, but Twitter makes it impossible not to take their passwords (unless I want to make an API call for every user that any user follows). People don't like giving away their passes to small sites. 
-  
+	* Newspaper website in Rails 
+		* Didn't end up getting used (A preexisting service gets the articles entered into contests, something the Editor in Chief told me when I was 90% finished. 
+		* The code is [here](https://github.com/jackowayed/bluestreak/tree)
+	* [Tweet Link Monster](http://tweetlinkmonster.com/) in Merb--49 users, and growing. 
+		* Would have more, but Twitter makes it impossible not to take their passwords (unless I want to make an API call for every user that any user follows). People don't like giving away their passes to small sites. 
+		* Wrote site from ground up, deployed, and launched. 
+
 
 ############### talk about the state reps app when code is on github ################
 
@@ -105,3 +106,4 @@ If I had to choose a language that I'd learn, it would probably be python becaus
 If need be, I could learn pretty much any language. The main limitation is that I really want to be able to develop on Linux. Windows is not my friend. My laptop does theoretically dual-boot with Vista though, so I might even consider going to the dark side and doing some MS language. 
 
 
+<!-- -*- indent-tabs-mode: t -*- -->
