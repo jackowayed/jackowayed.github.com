@@ -29,7 +29,7 @@ I need to be able to take the week of July 19th off, and it would be nice if I c
 
 I'd also love it if my hours weren't set, but I could do 9-5 (Eastern time) if necessary. 
 
-I could keep working around 5 hours a week after the summer too. 
+I could keep working around 5 hours a week after the summer too. I guess I could start around 5 hours a week this spring too. 
 
 Preferably, I would do something in Ruby, but I wouldn't mind learning to something something functional or Python. 
 
@@ -79,11 +79,11 @@ Accomplishments & Experience {#experience}
   * Wrote Conway's Game of Life w/ GUI in about an hour when I was bored in class. 
 * Started using Ruby in summer '06, though didn't do much advanced until summer '08
 * Ruby
-  * Newspaper website in Rails 
-    * Didn't end up getting used (A preexisting service gets the articles entered into contests, something the Editor in Chief told me when I was 90% finished. 
-    * The code is [here](https://github.com/jackowayed/bluestreak/tree)
-  * [Tweet Link Monster](http://tweetlinkmonster.com/) in Merb--48 users, and growing. 
-    * Would have more, but Twitter makes it impossible not to take their passwords (unless I want to make an API call for every user that any user follows). People don't like giving away their passes to small sites. 
+    * Newspaper website in Rails 
+        * Didn't end up getting used (A preexisting service gets the articles entered into contests, something the Editor in Chief told me when I was 90% finished. 
+        * The code is [here](https://github.com/jackowayed/bluestreak/tree)
+    * [Tweet Link Monster](http://tweetlinkmonster.com/) in Merb--49 users, and growing. 
+        * Would have more, but Twitter makes it impossible not to take their passwords (unless I want to make an API call for every user that any user follows). People don't like giving away their passes to small sites. 
   
 
 ############### talk about the state reps app when code is on github ################
