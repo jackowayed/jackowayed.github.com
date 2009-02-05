@@ -75,10 +75,13 @@ Accomplishments & Experience {#experience}
 ----------------------------
 
 ### Java {#java}
+
 * 2 Years of Java classes in school {#java}
   * 5 on the Advanced Placement Computer Science Exam (Maximum Score)
   * Wrote Conway's Game of Life w/ GUI in about an hour when I was bored in class
+
 ### Ruby {#ruby}
+
 * Started using Ruby in summer '06, though didn't do much advanced until summer '08
 * Newspaper website in Rails 
   * Didn't end up getting used (A preexisting service gets the articles entered into contests, something the Editor in Chief told me when I was 90% finished. 
