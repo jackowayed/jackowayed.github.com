@@ -29,7 +29,7 @@ I need to be able to take the week of July 19th off, and it would be nice if I c
 
 I'd also love it if my hours weren't set, but I could do 9-5 (Eastern time) if necessary. 
 
-I could keep working around 5 hours a week after the summer too. I guess I could start around 5 hours a week this spring too. 
+I could work during the school year, both before summer and after, somewhere in the area of 5 hours a week.  
 
 Preferably, I would do something in Ruby, but I wouldn't mind learning to something something functional or Python. 
 
@@ -45,6 +45,8 @@ Skill Summary  {#skills}
 ### More-or-Less "fluent" {#fluent}
 
 * Ruby & Merb
+  * Haml
+  * Datamapper
 * Java
 * Linux & Shell (>5 years using Linux)
 * Javascript
@@ -88,24 +90,28 @@ Accomplishments & Experience {#experience}
     * The code is [here](https://github.com/jackowayed/bluestreak/tree)
   * [Tweet Link Monster](http://tweetlinkmonster.com/) in Merb--49 users, and growing. 
     * Would have more, but Twitter makes it impossible not to take their passwords (unless I want to make an API call for every user that any user follows). People don't like giving away their passes to small sites. 
-  
+    * LEARNED
+      * 
+* Sinatra Twitter Follower App
+  * A 1-afternoon Sinatra-learning project. 
+  * Give it 2 Twitter usernames, and it gives a list of people who follow both. 
+  * Not deployed as of now. Should be soon. 
+* Wrote a most of the section about Datamapper in the [Merb book](http://book.merbist.com/) 
 
-############### talk about the state reps app when code is on github ################
+### C {#c}
 
-I then had to lookup 50 words online and copy the definitions as summer homework. This sounded like the most tedious thing ever, so I wrote [a script](https://github.com/jackowayed/lookup/tree), which I open-sourced, to do it. I didn't think it would take that much more time than actually looking it up, but it turns out parsing html sucks, especially when all dictionary websites display things in multiple structures for different words. 
+I know basic C, thanks my school forcing me to do science fair last year. 
+
+#### Pi
+
+I wrote 6 different Pi calculation formulas in C (w/ the GNU Multiple Precision Arithmetic Library so that I could hold a lot of digits) and saw how efficient they were. 
+
+[code](http://github.com/jackowayed/pi-calc/tree)
+
+### Want More Hacking? {#morehack}
+
+I have a few more projects on [github](http://github.com/jackowayed). There's nothing big, but there are a few small hacks and a couple things I forked and made small contributions to. 
 
 I then decided I wanted to learn Merb. I also decided it would be cool to do something with the Twitter API so I could get experience using APIs. Michael had the idea of twitterlinks, which is now [Tweet Link Monster](http://tweetlinkmonster.com/). I learned so much doing it. I learned simple things, like how to use Merb, Haml (which I love), and DataMapper (which I also love), but I also learned a lot applicable to any programming project. After spending way too long trying to follow all of the different kinds of redirects that were in links so that I could fetch their titles, I found a library to do it for me. So I learned that if something seems too hard, and it's something other people have probably needed to do as well, there's probably a library out there that does it for you. I'm sure I learned much more that doesn't expressly come to mind. 
-
-I then learned lots about deploying Merb apps and thus deploying in general. And I experienced a launch. I have 47 users now. (It would have done a lot better at launch and in general if it weren't that the Twitter API makes it basically impossible to make TLM not require people's passwords, which many people were wary of. I'm hoping that when OAuth finally comes out, I'll get a second surge of users.)
-
-I've done a lot of small random things too. I wrote a most of the section about Datamapper in the [Merb book](https://github.com/jackowayed/lookup/tree). I've helped lots of people in #merb with fairly simple bugs that I could help with. 
-
-################ Talk about twitter follower thing when it's deployed ############
-
-I love Ruby and can use Java, but I'm willing to learn other languages (as long as you give me a few months' notice or are ok with me spending the first few weeks of summer doing more learning than working.) 
-
-If I had to choose a language that I'd learn, it would probably be python because it sounds fairly Rubyish and powerful. Some functional like Lisp might be cool too, though I'm a little afraid of Lisp between the syntax and the functionality. I'm sure I could do it though. 
-
-If need be, I could learn pretty much any language. The main limitation is that I really want to be able to develop on Linux. Windows is not my friend. My laptop does theoretically dual-boot with Vista though, so I might even consider going to the dark side and doing some MS language. 
 
 
