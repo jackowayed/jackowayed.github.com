@@ -74,16 +74,17 @@ Skill Summary  {#skills}
 Accomplishments & Experience {#experience}
 ----------------------------
 
+### Java {#java}
 * 2 Years of Java classes in school {#java}
   * 5 on the Advanced Placement Computer Science Exam (Maximum Score)
   * Wrote Conway's Game of Life w/ GUI in about an hour when I was bored in class
-* Ruby {#ruby}
-  * Started using Ruby in summer '06, though didn't do much advanced until summer '08
-  * Newspaper website in Rails 
-    * Didn't end up getting used (A preexisting service gets the articles entered into contests, something the Editor in Chief told me when I was 90% finished. 
-      * The code is [here](https://github.com/jackowayed/bluestreak/tree)
-    * [Tweet Link Monster](http://tweetlinkmonster.com/) in Merb--49 users, and growing. 
-      * Would have more, but Twitter makes it impossible not to take their passwords (unless I want to make an API call for every user that any user follows). People don't like giving away their passes to small sites. 
+### Ruby {#ruby}
+* Started using Ruby in summer '06, though didn't do much advanced until summer '08
+* Newspaper website in Rails 
+  * Didn't end up getting used (A preexisting service gets the articles entered into contests, something the Editor in Chief told me when I was 90% finished. 
+    * The code is [here](https://github.com/jackowayed/bluestreak/tree)
+  * [Tweet Link Monster](http://tweetlinkmonster.com/) in Merb--49 users, and growing. 
+    * Would have more, but Twitter makes it impossible not to take their passwords (unless I want to make an API call for every user that any user follows). People don't like giving away their passes to small sites. 
   
 
 ############### talk about the state reps app when code is on github ################
