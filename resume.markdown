@@ -88,8 +88,8 @@ Accomplishments & Experience {#experience}
 * Newspaper website in Rails 
 	* Didn't end up getting used (A preexisting service gets the articles entered into contests, something the Editor in Chief told me when I was 90% finished. 
 		* The code is [here](https://github.com/jackowayed/bluestreak/tree)
-	* [Tweet Link Monster](http://tweetlinkmonster.com/) in Merb--49 users, and growing. 
-		* Would have more, but Twitter makes it impossible not to take their passwords (unless I want to make an API call for every user that any user follows). People don't like giving away their passes to small sites. 
+* [Tweet Link Monster](http://tweetlinkmonster.com/) in Merb--49 users, and growing. 
+	* Would have more, but Twitter makes it impossible not to take their passwords (unless I want to make an API call for every user that any user follows). People don't like giving away their passes to small sites. 
 * Sinatra Twitter Follower App
   * A 1-afternoon Sinatra-learning project. 
   * Give it 2 Twitter usernames, and it gives a list of people who follow both. 
