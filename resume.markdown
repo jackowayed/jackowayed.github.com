@@ -5,9 +5,9 @@ title: Resume
 Hire Me for the Summer         {#intro}
 ======================
 
-(Written in markdown extra in emacs)
+(Written in markdown extra in Emacs)
 
-I'm young, and I have no work experience and not a whole lot of coding experience, but I know how to program, and I'm eager to learn to fill in the gaps.
+Basically, I want to hack this summer. It could be full-time or a somewhat-large part-time. I need to make some money, and there's little that sounds worse to me than wasting my time in some mind-numbing job when I could be learning and enjoying my work coding. 
 
 ### Table of Contents
 
@@ -16,8 +16,6 @@ I'm young, and I have no work experience and not a whole lot of coding experienc
 
 What I Want to Do and Why       {#whatwhy}
 -------------------------
-
-Basically, I want to hack this summer. It could be full-time or a somewhat-large part-time. I need to make some money, and there's little that sounds worse to me than wasting my time in some mind-numbing job when I could be learning and enjoying my work coding. 
 
 I'm looking for a fairly small company, possibly a startup. It doesn't have to be tiny, but I'm not looking for some giant corporation where I'll spend more time planning what I will code than actually implementing. 
 
@@ -35,11 +33,11 @@ I could work during the school year, both before summer and after, somewhere in 
 
 Preferably, I would do something in Ruby, but I wouldn't mind learning to something something functional or Python. 
 
-### Interview Possibilites
+### Interview Possibilities
 
 I'll probably be in Atlanta for a few days sometime between April 10 and 19, when I could do interviews. 
 
-If that doesn't work, you could invterview me in/near Delaware, or we could do it via phone, email, IM, skype, magic CNN holigram, or carrier pigeon. 
+If that doesn't work, you could interview me in/near Delaware, or we could do it via phone, email, IM, skype, magic CNN hologram, or carrier pigeon. 
 
 Skill Summary  {#skills}
 -------------
@@ -80,7 +78,7 @@ Accomplishments & Experience {#experience}
 
 ### Java {#java}
 
-* 2 Years of Java classes in school {#java}
+* 2 Years of Java classes in school
   * 5 on the Advanced Placement Computer Science Exam (Maximum Score)
   * Wrote Conway's Game of Life w/ GUI in about an hour when I was bored in class
 
@@ -100,7 +98,7 @@ Accomplishments & Experience {#experience}
 
 ### C {#c}
 
-I know basic C, thanks my school forcing me to do science fair last year. 
+I know basic C, thanks my school forcing me to do science fair last year: 
 
 #### Pi
 
