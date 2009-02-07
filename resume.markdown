@@ -5,7 +5,7 @@ title: Resume
 Hire Me for the Summer         {#intro}
 ======================
 
-(Written in markdown extra in emacs, of course)
+(Written in markdown extra in emacs)
 
 I'm young, and I have no work experience and not a whole lot of coding experience, but I know how to program, and I'm eager to learn to fill in the gaps.
 
@@ -21,15 +21,17 @@ Basically, I want to hack this summer. It could be full-time or a somewhat-large
 
 I'm looking for a fairly small company, possibly a startup. It doesn't have to be tiny, but I'm not looking for some giant corporation where I'll spend more time planning what I will code than actually implementing. 
 
+The code I'm writing could be anything. Coolness of the project is a major plus, but I'd work on a lame project over doing a job most monkeys can do. 
+
 Though I am quite open to startups, I do need to make a little money from it. I need to make at least $2k for the summer so that I'll be good on car insurance and gas until next summer. 
 
-I'm available from the very beginning of June (There's some chance I'll have a final other than gym the first week of June, but it's looking like I won't.) until Labor Day. 
+I'm available from the very beginning of June Labor Day. 
 
 I need to be able to take the week of July 19th off, and it would be nice if I could take random days off every once in awhile. 
 
-I'd also love it if my hours weren't set, but I could do 9-5 (Eastern time) if necessary. 
+I'd also love it if my hours weren't set, but I could handle normal hours too. 
 
-I could work during the school year, both before summer and after, somewhere in the area of 5 hours a week.  
+I could work during the school year, both before summer and after, somewhere in the area of 5 hours a week if you want.  
 
 Preferably, I would do something in Ruby, but I wouldn't mind learning to something something functional or Python. 
 
@@ -90,8 +92,6 @@ Accomplishments & Experience {#experience}
     * The code is [here](https://github.com/jackowayed/bluestreak/tree)
   * [Tweet Link Monster](http://tweetlinkmonster.com/) in Merb--49 users, and growing. 
     * Would have more, but Twitter makes it impossible not to take their passwords (unless I want to make an API call for every user that any user follows). People don't like giving away their passes to small sites. 
-    * LEARNED
-      * 
 * Sinatra Twitter Follower App
   * A 1-afternoon Sinatra-learning project. 
   * Give it 2 Twitter usernames, and it gives a list of people who follow both. 
@@ -112,6 +112,5 @@ I wrote 6 different Pi calculation formulas in C (w/ the GNU Multiple Precision 
 
 I have a few more projects on [github](http://github.com/jackowayed). There's nothing big, but there are a few small hacks and a couple things I forked and made small contributions to. 
 
-I then decided I wanted to learn Merb. I also decided it would be cool to do something with the Twitter API so I could get experience using APIs. Michael had the idea of twitterlinks, which is now [Tweet Link Monster](http://tweetlinkmonster.com/). I learned so much doing it. I learned simple things, like how to use Merb, Haml (which I love), and DataMapper (which I also love), but I also learned a lot applicable to any programming project. After spending way too long trying to follow all of the different kinds of redirects that were in links so that I could fetch their titles, I found a library to do it for me. So I learned that if something seems too hard, and it's something other people have probably needed to do as well, there's probably a library out there that does it for you. I'm sure I learned much more that doesn't expressly come to mind. 
-
+Questions? Email me at danjdel at gmail dot com. 
 
