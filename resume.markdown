@@ -57,7 +57,9 @@ Skill Summary  {#skills}
 * Sinatra
 * Git
 * Javascript
+
   * JQuery
+
 * CSS
 
 ### Know the Basics {#basics}
