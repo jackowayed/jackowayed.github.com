@@ -49,19 +49,23 @@ Skill Summary  {#skills}
   * DataMapper
 * Java
 * Linux & Shell (>5 years using Linux)
-* Javascript
 * HTML
+
+### Solid Knowledge {#solid}
+
+* Rails (I know the concepts due to Ruby & Merb and have used it some. I just would need to bone up on some of their names for things and such. )
+* Sinatra
+* Git
+* Javascript
+  * JQuery
 * CSS
 
 ### Know the Basics {#basics}
 
-* Rails (I know the concepts due to Ruby & Merb and have used it some. I just would need to bone up on some of their names for things and such. )
-* Sinatra
-* JQuery
-* Bash scripting
 * PHP
+* Bash scripting
+* SQL
 * C
-* Git
 
 ### If Learning, Prefer {#learn}
 
