@@ -1,5 +1,6 @@
 ---
 title: Resume
+layout: default
 ---
 
 Hire Me for the Summer         {#intro}
