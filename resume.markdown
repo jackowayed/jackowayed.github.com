@@ -21,17 +21,17 @@ I'm looking for a fairly small company, possibly a startup. It doesn't have to b
 
 The code I'm writing could be anything. Coolness of the project is a major plus, but I'd work on a lame project over doing a job most monkeys can do. 
 
-Though I am quite open to startups, I do need to make a little money from it. I need to make at least $2k for the summer so that I'll be good on car insurance and gas until next summer. 
+Though I am quite open to startups and not working full-time, I do need to make at least $2k for the summer so that I'll be good on car insurance and gas until next summer. 
 
-I'm available from the very beginning of June Labor Day. 
+I'm available from the very beginning of June until Labor Day. 
+
+I could work during the school year, both before summer and after, somewhere in the area of 5 hours a week if you want.  
 
 I need to be able to take the week of July 19th off, and it would be nice if I could take random days off every once in awhile. 
 
 I'd also love it if my hours weren't set, but I could handle normal hours too. 
 
-I could work during the school year, both before summer and after, somewhere in the area of 5 hours a week if you want.  
-
-Preferably, I would do something in Ruby, but I wouldn't mind learning to something something functional or Python. 
+Preferably, I would do something in Ruby, but I wouldn't mind learning to something something functional or Python. I could do pretty much any language though. 
 
 ### Interview Possibilities
 
@@ -46,7 +46,7 @@ Skill Summary  {#skills}
 
 * Ruby & Merb
   * Haml
-  * Datamapper
+  * DataMapper
 * Java
 * Linux & Shell (>5 years using Linux)
 * Javascript
@@ -55,7 +55,7 @@ Skill Summary  {#skills}
 
 ### Know the Basics {#basics}
 
-* Rails (I know the concepts due to Ruby & Merb. I just would need to bone up on some of their names for things and such. )
+* Rails (I know the concepts due to Ruby & Merb and have used it some. I just would need to bone up on some of their names for things and such. )
 * Sinatra
 * JQuery
 * Bash scripting
@@ -79,7 +79,10 @@ Accomplishments & Experience {#experience}
 ### Java {#java}
 
 * 2 Years of Java classes in school
-  * 5 on the Advanced Placement Computer Science Exam (Maximum Score)
+
+  * 5 (Max Score) on the Advanced Placement Computer Science AB (the harder one) Exam
+
+    * [List of Topics Covered](http://en.wikipedia.org/wiki/AP_Computer_Science#Topic_Outline)
   * Wrote Conway's Game of Life w/ GUI in about an hour when I was bored in class
 
 ### Ruby {#ruby}
@@ -87,7 +90,7 @@ Accomplishments & Experience {#experience}
 * Started using Ruby in summer '06, though didn't do much advanced until summer '08
 * Newspaper website in Rails 
 
-	* Didn't end up getting used (A preexisting service gets the articles entered into contests, something the Editor in Chief told me when I was 90% finished.
+	* Didn't end up getting used (A preexisting service gets the articles entered into contests, something the Editor in Chief told me when I was 90% finished.)
 	
 		* The code is [here](https://github.com/jackowayed/bluestreak/tree)
 		
