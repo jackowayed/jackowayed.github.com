@@ -121,6 +121,14 @@ I wrote 6 different Pi calculation formulas in C (w/ the GNU Multiple Precision 
 
 [code](http://github.com/jackowayed/pi-calc/tree)
 
+### School
+
+I achieve very highly in school. I attend the 41st-best public school in the nation, as ranked by US News & World Report, and I believe I'm told I have #1 class rank in the junior class.
+
+I have taken many high-level classes (and all honors classes, save when not offered or when I took AP classes instead) and have received an overall A in every class. 
+
+I know this has no direct bearing on hacking, but I think it shows a level of intelligence and work ethic in which you may be interested. 
+
 ### Want More Hacking? {#morehack}
 
 I have a few more projects on [github](http://github.com/jackowayed). There's nothing big, but there are a few small hacks and a couple things I forked and made small contributions to. 
