@@ -111,6 +111,17 @@ Accomplishments & Experience {#experience}
   * Not deployed as of now. Should be soon. 
 * Wrote a most of the section about Datamapper in the [Merb book](http://book.merbist.com/) 
 
+### Javascript
+
+* Greasemonkey Script for Github
+
+  * They changed the site to use new links with urls that kinda suck. The old urls worked though. 
+
+  * So this changes the links to use the prettier, shorter, better urls. 
+  
+  * [Its Page](http://jackowayed.github.com/github-pretty-links/) (I know the colors are ugly. I went with the colors github randomly chose, and the stylesheet Github makes aren't very DRY.)
+
+
 ### C {#c}
 
 I know basic C, thanks my school forcing me to do science fair last year: 
