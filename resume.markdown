@@ -134,7 +134,7 @@ I wrote 6 different Pi calculation formulas in C (w/ the GNU Multiple Precision 
 
 ### Shell
 
-I've just started helping on [autojump](http://github.com/joelthelion/autojump/tree/master), which is kind of like cdargs, but it learns. 
+I've just started helping on [autojump](http://wiki.github.com/joelthelion/autojump), which is kind of like cdargs, but it learns. 
 
 ### School
 
