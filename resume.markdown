@@ -148,5 +148,8 @@ I know this has no direct bearing on hacking, but I think it shows a level of in
 
 I have a few more projects on [github](http://github.com/jackowayed). There's nothing big, but there are a few small hacks and a couple things I forked and made small contributions to. 
 
-Questions? Email me at danjdel at gmail dot com. 
+More Information
+----------------
+
+Email me at [danjdel@gmail.com](mailto:danjdel@gmail.com). 
 
