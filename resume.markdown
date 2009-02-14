@@ -132,6 +132,10 @@ I wrote 6 different Pi calculation formulas in C (w/ the GNU Multiple Precision 
 
 [code](http://github.com/jackowayed/pi-calc/tree)
 
+### Shell
+
+I've just started helping on [autojump](http://github.com/joelthelion/autojump/tree/master), which is kind of like cdargs, but it learns. 
+
 ### School
 
 I achieve very highly in school. I attend the 41st-best public school in the nation, as ranked by US News & World Report, and I have #1 class rank in the junior class.
