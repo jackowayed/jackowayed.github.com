@@ -134,7 +134,7 @@ I wrote 6 different Pi calculation formulas in C (w/ the GNU Multiple Precision 
 
 ### School
 
-I achieve very highly in school. I attend the 41st-best public school in the nation, as ranked by US News & World Report, and I believe I'm told I have #1 class rank in the junior class.
+I achieve very highly in school. I attend the 41st-best public school in the nation, as ranked by US News & World Report, and I have #1 class rank in the junior class.
 
 I have taken many high-level classes (and all honors classes, save when not offered or when I took AP classes instead) and have received an overall A in every class. 
 
