@@ -56,7 +56,7 @@ Skill Summary  {#skills}
 
 * Rails (I know the concepts due to Ruby & Merb and have used it some. I just would need to bone up on some of their names for things and such. )
 * Sinatra
-* Git
+* Git Version Control
 * Javascript
 
   * JQuery
