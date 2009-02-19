@@ -1,5 +1,5 @@
 ---
-
+title: Daniel Jackoway's Resume
 --- 
 
 # Daniel Jackoway
@@ -62,7 +62,7 @@ Java (2 years of classwork); Ruby (2 years of independent study); Merb; Haml; Da
 
 Sinatra; Git Version Control; Javascript; jQuery; CSS; PHP; C; Bash scripting; SQL
 
-<hr/>
+---
 
 Interview by appointment: in Atlanta mid April; or via phone, email, IM, Skype, magic CNN hologram, or carrier pigeon. Email to arrange interview. 
 
