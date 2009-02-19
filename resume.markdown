@@ -1,3 +1,6 @@
+---
+---
+
 # Daniel Jackoway
 
 [danjdel@gmail.com](mailto:danjdel@gmail.com)
