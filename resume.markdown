@@ -1,5 +1,6 @@
 ---
 title: Daniel Jackoway's Resume
+layout: default
 --- 
 
 # Daniel Jackoway
