@@ -9,6 +9,8 @@ layout: default
 
 [http://github.com/jackowayed](http://github.com/jackowayed)
 
+---
+
 ## Hire Me For the Summer!
 
 Basically, I want to hack this summer. It could be full-time or a somewhat-large part-time. I need to make some money, and there’s little that sounds worse to me than wasting my time in some mind-numbing job when I could be learning and enjoying my work coding.
