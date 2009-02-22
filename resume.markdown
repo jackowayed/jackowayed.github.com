@@ -41,7 +41,7 @@ Wrote the initial section about DataMapper. The majority remains intact.
 
 ### Developed Tweet Link Monster in Merb (Fall 2008)
 
-50 registered users, and growing.
+51 registered users, and growing.
 
 [http://tweetlinkmonster.com/](http://tweetlinkmonster.com/)
 
