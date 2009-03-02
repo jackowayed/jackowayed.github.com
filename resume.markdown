@@ -27,6 +27,12 @@ Class rank #1 in the junior class at the 41st best public high school in the nat
 
 ## Experience
 
+### Developed Sentdiff (February 2009)
+
+Diff for writing. Splits the text by sentence first, then diffs that. 
+
+[http://github.com/jackowayed/sentdiff/tree/master](http://github.com/jackowayed/sentdiff/tree/master)
+
 ### Developed Greasemonkey Script for Github (February 2009)
 
 Developed script that replaces default long URLs that point to a specific version of code with short URLs that point to the newest version.
@@ -41,7 +47,7 @@ Wrote the initial section about DataMapper. The majority remains intact.
 
 ### Developed Tweet Link Monster in Merb (Fall 2008)
 
-52 registered users, and growing.
+54 registered users, and growing.
 
 [http://tweetlinkmonster.com/](http://tweetlinkmonster.com/)
 
