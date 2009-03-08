@@ -27,7 +27,7 @@ Class rank #1 in the junior class at the 41st best public high school in the nat
 
 ## Experience
 
-### Developed Sentdiff (February 2009)
+### Contributed to Sentdiff (February 2009)
 
 Diff for writing. Splits the text by sentence first, then diffs that. 
 
@@ -47,7 +47,7 @@ Wrote the initial section about DataMapper. The majority remains intact.
 
 ### Developed Tweet Link Monster in Merb (Fall 2008)
 
-54 registered users, and growing.
+55 registered users, and growing.
 
 [http://tweetlinkmonster.com/](http://tweetlinkmonster.com/)
 
