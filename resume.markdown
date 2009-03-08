@@ -1,7 +1,7 @@
 ---
 title: Daniel Jackoway's Resume
 layout: default
---- 
+---
 
 # Daniel Jackoway
 
@@ -17,7 +17,7 @@ Basically, I want to hack this summer. It could be full-time or a somewhat-large
 
 ## Objective
 
-A summer programming position, preferably in Ruby, (I know other languages (see below), and I could learn a new one, preferably a functional language or Python, before the summer.) working remotely. 
+A summer programming position, preferably in Ruby, (I know other languages (see below), and I could learn a new one, preferably a functional language or Python, before the summer.) working remotely.
 
 ## Education
 
@@ -29,7 +29,7 @@ Class rank #1 in the junior class at the 41st best public high school in the nat
 
 ### Contributed to Sentdiff (February 2009)
 
-Diff for writing. Splits the text by sentence first, then diffs that. 
+Diff for writing. Splits the text by sentence first, then diffs that.
 
 [http://github.com/jackowayed/sentdiff/tree/master](http://github.com/jackowayed/sentdiff/tree/master)
 
@@ -55,7 +55,7 @@ Wrote the initial section about DataMapper. The majority remains intact.
 
 Code at [http://github.com/jackowayed/bluestreak/tree/master](http://github.com/jackowayed/bluestreak/tree/master)
 
-### Pi Calculation in C	(Fall 2007)
+### Pi Calculation in C (Fall 2007)
 
 Used C and the GNU Multiple Precision Arithmetic Library to calculate Pi using 6 different formulae and analyzed their comparative efficiency.
 
@@ -71,7 +71,11 @@ Java (2 years of classwork); Ruby (2 years of independent study); Merb; Haml; Da
 
 Sinatra; Git Version Control; Javascript; jQuery; CSS; PHP; C; Bash scripting; SQL
 
+## Reference
+
+Michael Ivey is a friend, mentor, and kind of employer to me. (I'm “employed” part-time, but he has no paid work for me to do.) He's lead a play I've been in. He's helped me debug. I've helped him find bugs in his startups. (I even reverse-engineered a hash function he wrote and realized that he was just multiplying by a large number.) He can tell you a lot about me. Email him at ivey "at" gweezlebur "dot" com
+
 ---
 
-Interview by appointment: in Atlanta mid April; or via phone, email, IM, Skype, magic CNN hologram, or carrier pigeon. Email to arrange interview. 
+Interview by appointment: in Atlanta mid April; or via phone, email, IM, Skype, magic CNN hologram, or carrier pigeon. Email to arrange interview.
 
