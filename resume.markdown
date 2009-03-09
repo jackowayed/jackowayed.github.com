@@ -73,7 +73,7 @@ Sinatra; Git Version Control; Javascript; jQuery; CSS; PHP; C; Bash scripting; S
 
 ## Reference
 
-Michael Ivey is a friend, mentor, and kind of employer to me. (I'm “employed” part-time, but he has no paid work for me to do.) He's lead a play I've been in. He's helped me debug. I've helped him find bugs in his startups. (I even reverse-engineered a hash function he wrote and realized that he was just multiplying by a large number.) He can tell you a lot about me. Email him at ivey "at" gweezlebur "dot" com
+Michael Ivey is a friend, mentor, and kind of employer to me. (I'm "employed" part-time, but he has no paid work for me to do.) He's lead a play I've been in. He's helped me debug. I've helped him find bugs in his startups. (I even reverse-engineered a hash function he wrote and realized that he was just multiplying by a large number.) He can tell you a lot about me. Email him at ivey "at" gweezlebur "dot" com
 
 ---
 
