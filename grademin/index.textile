@@ -36,3 +36,4 @@ function calcScore(){
     score -= parseFloat($("#q"+a).val())/2
     $("#ans").text(score)
 }
+</script>
