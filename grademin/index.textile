@@ -29,7 +29,9 @@ p(#answer). You need at least a <span id="ans">__</span> in the 4th quarter to g
 function calcScore(){
     var score = 9*92.5/2;
     for (var a = 1; a<=3; a++){
-	score -= parseFloat($("#q"+a).val())
+	var val = parseFloat($("#q"+a).val())
+	console.log(val)
+	score -= val;
     }
     score -= parseFloat($("#q"+a).val())/2
     $("#ans").text(score)
