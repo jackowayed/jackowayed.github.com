@@ -9,7 +9,7 @@ h3. Note: this is made for The Charter School of Wilmington's grading system
 
 The way the system works is that each quarter is worth 2x that of the midterm. So the midterm is worth 1/9 of your total grade and each quarter is worth 2/9. If your school matches this, and your school's minimum A is 93, it should still work. 
 
-p. %{color:red;font-size:16pt}DISCLAIMER:% I take no responsibility for this either being wrong (though I'm 98% sure that it's right) or for you it encouraging you to slack off too much. 
+p. %{color:red;font-size:16pt}DISCLAIMER:% I take no responsibility for this either being wrong (though I'm 98% sure that it's right) or for it encouraging you to slack off too much. 
 
 h2. Your Grades
 
@@ -38,3 +38,5 @@ function calcScore(){
     $("#ans").text(score)
 }
 </script>
+
+Copyright (c) 2009 Daniel Jackoway
