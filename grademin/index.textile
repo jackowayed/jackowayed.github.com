@@ -18,9 +18,7 @@ Enter the percentages. For example, you might enter, "93". ".93" will not work.
 Midterm <input type="text" id="mid" size="4"/>
 3rd Quarter <input type="text" id="q3" size="4"/>
 
-p(#answer). You need at least a 
-<span id="ans">__</span>
-in the 4th quarter to get an A for the year
+p(#answer). You need at least a <span id="ans">__</span> in the 4th quarter to get an A for the year
 
 <button id="calculate">Calculate Answer</button>
 
