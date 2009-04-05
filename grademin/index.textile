@@ -24,13 +24,12 @@ p(#answer). You need at least a <span id="ans">__</span> in the 4th quarter to g
 
 <script type="text/javascript">
     $(document).ready(function(){
-	$("#calculate").click(calcScore());
+	$("#calculate").click(function(){calcScore()});
     })
 function calcScore(){
     var score = 9*92.5/2;
     for (var a = 1; a<=3; a++){
 	var val = parseFloat($("#q"+a).val())
-	console.log(val)
 	score -= val;
     }
     score -= parseFloat($("#q"+a).val())/2
