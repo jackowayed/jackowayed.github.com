@@ -32,7 +32,7 @@ function calcScore(){
 	var val = parseFloat($("#q"+a).val())
 	score -= val;
     }
-    score -= parseFloat($("#q"+a).val())/2
+    score -= parseFloat($("#mid").val())/2
     $("#ans").text(score)
 }
 </script>
