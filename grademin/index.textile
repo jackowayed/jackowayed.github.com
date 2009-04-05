@@ -1,0 +1,38 @@
+---
+layout: default
+title: Calculate Minimum 4th-Quarter Grade for an A
+jquery: true
+---
+h1. Calculate Minimum Grade You Need in the 4th Quarter to Get an A for the Year
+
+h3. Note: this is made for The Charter School of Wilmington's grading system
+
+The way the system works is that each quarter is worth 2x that of the midterm. So the midterm is worth 1/9 of your total grade and each quarter is worth 2/9. If your school matches this, and your school's minimum A is 93, it should still work. 
+
+h2. Your Grades
+
+Enter the percentages. For example, you might enter, "93". ".93" will not work. 
+
+1st Quarter <input type="text" id="q1" size="4"/>
+2nd Quarter <input type="text" id="q2" size="4"/>
+Midterm <input type="text" id="mid" size="4"/>
+3rd Quarter <input type="text" id="q3" size="4"/>
+
+p(#answer). You need at least a 
+span(#ans). __
+in the 4th quarter to get an A for the year
+
+button(#calculate). Calculate Answer
+
+<script type="text/javascript">
+    $(document).ready(function(){
+	$(#calculate).click(calcScore());
+    }
+function calcScore(){
+    score = 9*92.5/2;
+    for (var a = 1; a<=3; a++){
+	score -= parseFloat($("#q"+a).val())
+    }
+    score -= parseFloat($("#q"+a).val())/2
+    $("#ans").text(score)
+}
