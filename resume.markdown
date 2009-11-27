@@ -15,10 +15,6 @@ layout: default
 
 Basically, I want to hack this summer. It could be full-time or a somewhat-large part-time. I need to make some money, and there's little that sounds worse to me than wasting my time in some mind-numbing job when I could be learning and enjoying my work coding.
 
-## Objective
-
-A summer programming position, preferably in Ruby, (I know other languages (see below), and I could learn a new one, preferably a functional language or Python, before the summer.) working remotely.
-
 ## Education
 
 ### Charter School of Wilmington (Fall 2006-present)
@@ -63,19 +59,21 @@ Code at [http://github.com/jackowayed/pi-calc/tree](http://github.com/jackowayed
 
 ## Skills
 
-### Fluent in
+### Expert with
 
-Java (2 years of classwork); Ruby (2 years of independent study); Merb; Haml; DataMapper; Rails; HTML; Linux (5 years experience)
+Ruby (3 years of independent study); Java (2 years of classwork); Merb; Haml; DataMapper; Rails; Git Version Control; Javascript; jQuery; CSS; HTML; Linux (6 years experience)
 
 ### Familiar with
 
-Sinatra; Git Version Control; Javascript; jQuery; CSS; PHP; C; Bash scripting; SQL
+Sinatra; PHP; C; Bash scripting; SQL
 
 ## Reference
+
+Troy Davis is one of the founders of Seven Scale.
 
 Michael Ivey is a friend, mentor, and kind of employer to me. (I'm "employed" part-time, but he has no paid work for me to do.) He's lead a play I've been in. He's helped me debug. I've helped him find bugs in his startups. (I even reverse-engineered a hash function he wrote and realized that he was just multiplying by a large number.) He can tell you a lot about me. Email him at ivey "at" gweezlebur "dot" com
 
 ---
 
-Interview by appointment: in Atlanta mid April; or via phone, email, IM, Skype, magic CNN hologram, or carrier pigeon. Email to arrange interview.
+Interview by appointment via phone, email, IM, Skype, magic CNN hologram, or carrier pigeon. Email to arrange interview.
 
